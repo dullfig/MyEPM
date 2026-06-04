@@ -1,0 +1,11 @@
+# Claude Code / RLM local index (local-only, do not sync)
+.claude/memory-rlm.db
+.claude/memory-rlm.db-shm
+.claude/memory-rlm.db-wal
+
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~
